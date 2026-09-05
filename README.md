@@ -61,6 +61,32 @@ O EduSales AI é capaz de:
 - Sugerir o próximo passo do atendimento;
 - Evitar informações comerciais inventadas.
 
+## 🛠️ Tecnologias e recursos.
+
+## 🧠 Prompt final utilizado
+
+O prompt final utilizado para orientar o EduSales AI está disponível no arquivo:
+
+`prompts/prompt-copiloto.md`
+
+O prompt define:
+
+- O papel da IA como copiloto de vendas;
+- A utilização da base de conhecimento;
+- O processo de análise do cliente;
+- A identificação de informações faltantes;
+- O tratamento de objeções;
+- Os critérios para recomendação de cursos;
+- As regras de segurança comercial;
+- O formato obrigatório das respostas;
+- O tom de voz do atendimento.
+
+### Princípio central
+
+> Compreender primeiro. Recomendar depois. Conduzir somente quando fizer sentido.
+
+O prompt completo utilizado no desenvolvimento e nos testes está disponível em `prompts/prompt-copiloto.md`.
+
 ---
 
 ## 🧠 Base de conhecimento
