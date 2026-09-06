@@ -199,7 +199,43 @@ Nesse teste, a IA:
 - Sugeriu uma pergunta para compreender melhor a necessidade do cliente;
 - Indicou como próximo passo a investigação da objeção.
 
----
+## 💬 Demonstração
+
+### Situação
+
+Um potencial aluno demonstra interesse no curso de Inteligência Artificial, mas questiona a necessidade de pagar por uma formação, pois acredita que pode aprender utilizando vídeos gratuitos no YouTube.
+
+### Entrada do cliente
+
+> "Eu gostei do curso de IA, mas sinceramente acho que consigo aprender tudo isso sozinho usando vídeos gratuitos no YouTube. Por que eu deveria pagar por um curso?"
+
+### Análise gerada
+
+- **Objetivo:** Aprender Inteligência Artificial.
+- **Interesse:** Inteligência Artificial para Profissionais.
+- **Possível objeção:** Percepção de que conteúdos gratuitos podem atender à necessidade sem investimento financeiro.
+- **Intenção de compra:** Interesse no curso, mas questiona o valor do investimento.
+- **Estágio da decisão:** Consideração/comparação.
+
+### Estratégia
+
+Não desvalorizar conteúdos gratuitos nem simplesmente defender o preço do curso.
+
+A IA deve compreender o que o cliente considera importante em uma formação e identificar quais características de uma formação estruturada são relevantes para sua necessidade.
+
+### Resposta sugerida
+
+> "Faz sentido pensar assim. Existem mesmo muitos conteúdos gratuitos sobre IA, e vale a pena comparar as opções antes de investir.
+>
+> A questão é entender o que você procura em um curso. No caso da nossa formação, ela aborda fundamentos de IA, IA generativa, engenharia de prompts, ferramentas de IA, automação de tarefas e aplicações profissionais.
+>
+> Para você, o que seria mais importante em uma formação: ter um conteúdo mais estruturado ou conseguir aplicar o que aprende diretamente no seu trabalho?"
+
+### Próximo passo
+
+**Investigar a objeção.**
+
+O objetivo é entender o que o potencial aluno considera necessário para que um curso de IA tenha valor para ele.
 
 ## 📁 Estrutura do projeto
 
